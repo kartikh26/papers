@@ -2,3 +2,9 @@
 -------------------------------------------------------------------------------
 -------------------------------------------------------------------------------
 
+### Background.
+In 2010, Youtube launched in-stream video advertisements as part its [TrueView](https://www.thinkwithgoogle.com/products/youtube-trueview.html) product. Users  
+
+### Key Findings.  
+
+### Reseach Process.
