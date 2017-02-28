@@ -3,8 +3,9 @@
 -------------------------------------------------------------------------------
 
 ### Background.
-In 2010, Youtube launched in-stream video advertisements as part its [TrueView](https://www.thinkwithgoogle.com/products/youtube-trueview.html) product. Users  
+In 2010, Youtube launched in-stream video advertisements as part its [TrueView](https://www.thinkwithgoogle.com/products/youtube-trueview.html) product. This launch introduced video advertisements that were displayed before the playback begins and after five seconds, users were granted the option to skip the ad. This article describes how two seemingly counter forces, user experience and online video advertising, improved with the skippable in-stream advertisements.  
 
-### Key Findings.  
+### Research Process.
 
-### Reseach Process.
+
+### Key Findings.
