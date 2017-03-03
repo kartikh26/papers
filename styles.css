@@ -8,6 +8,10 @@ h1 {
 	margin-top: 0;
 }
 
+#index {
+	margin-left: 15%;
+}
+
 li {
 	font-family: 'Poppins', sans-serif;
 }
